@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+permalink: /publications/
 ---
 
 See also my [Google Scholar profile](https://scholar.google.com/citations?user=CfPeWzUAAAAJ&hl=en).
