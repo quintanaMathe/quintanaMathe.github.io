@@ -1,0 +1,20 @@
+title: Alexi Quintana Mathé
+description: Sociologist and quantitative social scientist working on social networks, homophily, survey research and computational social science.
+url: "https://quintanamathe.github.io"
+baseurl: ""
+lang: en
+
+# Top menu (edit, reorder or add pages here)
+nav:
+  - title: About
+    url: /
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: CV
+    url: /files/CV_Quintana-Mathe.pdf
+
+markdown: kramdown
+exclude:
+  - README.md
