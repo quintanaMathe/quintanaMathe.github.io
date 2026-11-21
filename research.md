@@ -18,11 +18,11 @@ My PhD dissertation, *From Followers to Close Ties: Homophily in Population-Leve
 
 The [COVID States Project](https://www.covidstates.org/), now the [Civic Health and Institutions Project (CHIP50)](https://www.chip50.org/), is a multi-university consortium that has surveyed more than 20,000 respondents several times a year across all US states since 2020. As part of the core data team, I worked across the data pipeline: questionnaire design, survey weighting, data-processing code, and the tables and figures for public reports and dashboards. I co-authored about 50 public reports.
 
-This work led to my first-authored study on the accuracy of large opt-in, non-probability surveys for estimating COVID-19 infection and vaccination rates at the state level ([JSSAM 2026](/publications/#jssam)). For a study with Mauricio Santillana's group on behavioral change during the pandemic, I produced the state-level survey time series and wrote the description of the data ([PNAS 2025](/publications/#pnas)). Other team publications cover:
+This work led to my (co)first-authored study on the accuracy of large opt-in, non-probability surveys for estimating COVID-19 infection and vaccination rates at the state level ([JSSAM 2026](/publications/#jssam)). Other publications with the Covid States team cover:
 
 - **Trust in science:** [Nature Human Behaviour 2026](/publications/#nhb-trust), [Public Opinion Quarterly 2025](/publications/#poq-trust).
-- **Public health:** long COVID ([JAMA Netw. Open 2022](/publications/#jama-longcovid)), COVID-19 tracking with at-home tests ([JAMA Netw. Open 2024](/publications/#jama-tests)), mobility and depression ([JAMA Netw. Open 2023](/publications/#jama-mobility)), social media use and depression ([JAMA Netw. Open 2021](/publications/#jama-socialmedia)), firearm ownership and depression ([JAMA Netw. Open 2022](/publications/#jama-firearms)), social isolation in older adults ([J. Affective Disorders 2023](/publications/#jad)), and resilience in depression ([Depression and Anxiety 2021](/publications/#depression-anxiety)).
-- **COVID-19 misperceptions:** [Group Processes & Intergroup Relations 2021](/publications/#gpir).
+- **Public health:** preventive behaviors during the COVID-19 pandemic ([PNAS 2025](/publications/#pnas)), (long COVID ([JAMA Netw. Open 2022](/publications/#jama-longcovid)), COVID-19 tracking with at-home tests ([JAMA Netw. Open 2024](/publications/#jama-tests)), mobility and depression ([JAMA Netw. Open 2023](/publications/#jama-mobility)), social media use and depression ([JAMA Netw. Open 2021](/publications/#jama-socialmedia)), firearm ownership and depression ([JAMA Netw. Open 2022](/publications/#jama-firearms)), social isolation in older adults ([J. Affective Disorders 2023](/publications/#jad)), and resilience in depression ([Depression and Anxiety 2021](/publications/#depression-anxiety)).
+- **Misinformation:** [Group Processes & Intergroup Relations 2021](/publications/#gpir).
 
 The ego-network data collected by the project are the basis of the second chapter of my dissertation, and of [ongoing work on social support](/publications/#wip-social-support) during and after the pandemic.
 
@@ -36,7 +36,7 @@ Much of my work at the Lazer Lab uses one of its main data infrastructures: a la
 - the challenges of measuring gender online ([Journal of Computer-Mediated Communication 2024](/publications/#jcmc-gender));
 - how stance expressed on social media aligns with public opinion surveys ([EMNLP 2021](/publications/#emnlp)).
 
-I also contributed to the [National Internet Observatory](https://nationalinternetobservatory.org/), an NSF-funded infrastructure at Northeastern University that collects survey and online behavioral data from consenting participants for research, and presented it at an [invited workshop in Manchester](https://digisurvor.github.io/workshop_1/) in 2025 ([slides](https://digisurvor.github.io/workshop_1/docs/NIO_Manchester.pdf)).
+I also contributed to the [National Internet Observatory](https://nationalinternetobservatory.org/), an NSF-funded infrastructure at Northeastern University that collects survey and online behavioral data from consenting participants for research.
 
 ## PATCHWORK: a network science approach to social cohesion
 
