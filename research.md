@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+permalink: /research/
 ---
 
 I study how the contexts in which people interact, online and offline, shape who they connect with. My work draws on large-scale surveys and digital trace data, often combining both, and has developed through collaborations with several research groups and data infrastructures.
